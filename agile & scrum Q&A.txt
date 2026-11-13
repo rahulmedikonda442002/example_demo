@@ -1,0 +1,173 @@
+1. What is Agile methodology?
+Ans: Agile methodology is an iterative and incremental approach to software development that emphasizes flexibility, collaboration, and delivering small, frequent releases of working software.
+
+2. What are the principles of Agile?
+Ans: Agile principles include customer satisfaction, welcoming changing requirements, frequent delivery, close collaboration between developers and stakeholders, and maintaining a sustainable pace.
+
+3. What are the key benefits of Agile methodology?
+Ans: Benefits of Agile include improved flexibility, faster delivery, better customer collaboration, higher quality through continuous feedback, and early detection of issues.
+
+4. What is Scrum?
+Ans: Scrum is a popular Agile framework that uses fixed-length iterations called sprints to develop software. It emphasizes collaboration, continuous feedback, and incremental progress.
+
+5. What are the roles in Scrum?
+Ans: Scrum has three key roles: Product Owner (defines product backlog and priorities), Scrum Master (facilitates Scrum process), and Development Team (builds the product).
+
+6. What is a Sprint in Scrum?
+Ans: A Sprint is a time-boxed iteration (usually 1?4 weeks) in Scrum where a team works on a predefined set of features or tasks. At the end of the sprint, a potentially shippable product increment is delivered.
+
+7. What is a Product Backlog in Scrum?
+Ans: The Product Backlog is a prioritized list of features, enhancements, and bug fixes that are planned for future releases. It is maintained and refined by the Product Owner.
+
+8. What is a Sprint Backlog in Scrum?
+Ans: The Sprint Backlog is a list of tasks and user stories the team plans to complete during a sprint. It is derived from the Product Backlog and is owned by the development team.
+
+9. What is a Daily Scrum meeting?
+Ans: The Daily Scrum (also called the Daily Standup) is a short meeting where the development team discusses progress, potential blockers, and goals for the day. It helps ensure alignment and transparency.
+
+10. What is a Scrum Master's role?
+Answer-10: The Scrum Master acts as a facilitator and coach for the Scrum team, helping to remove impediments, protect the team from external distractions, and ensure the Scrum process is followed.
+
+11. What is a Product Owner?s role?
+Ans: The Product Owner represents the stakeholders and is responsible for defining and prioritizing the Product Backlog. They ensure the team works on the most valuable tasks.
+
+12. What is a Burndown Chart in Scrum?
+Ans: A Burndown Chart is a graphical representation of the work remaining in a sprint or project, showing progress toward completing the sprint goals over time.
+
+13. What is the difference between Agile and Waterfall methodologies?
+Ans: Agile is iterative and flexible, allowing for frequent changes, while Waterfall is linear and sequential with well-defined phases that are difficult to change once started.
+
+14. What is a user story in Agile?
+Ans: A user story is a short, simple description of a feature or functionality from the perspective of the end-user. It helps guide the development and provides context for the team.
+
+15. What are the characteristics of a good user story?
+Ans: A good user story is clear, concise, testable, valuable to the customer, and independent (can be developed and tested without dependencies).
+
+16. What is Sprint Planning?
+Ans: Sprint Planning is a meeting at the beginning of each sprint where the team decides what work to accomplish from the Product Backlog and how to achieve it.
+
+17. What is Sprint Retrospective?
+Ans: Sprint Retrospective is a meeting at the end of a sprint where the team reflects on the process, discusses what went well, and identifies improvements for future sprints.
+
+18. What is Continuous Integration (CI) in Agile?
+Ans: Continuous Integration is the practice of frequently integrating code changes into a shared repository, ensuring the software is always in a deployable state.
+
+19. What is Continuous Delivery (CD)?
+Ans: Continuous Delivery is a practice where code changes are automatically prepared for release to production, ensuring faster delivery and reducing the risk of errors.
+
+20. What is a Release Burnup Chart?
+Ans: A Release Burnup Chart tracks the progress of a team toward completing a set of features or a project over time, showing work completed versus work remaining.
+
+21. What is a Scrum board?
+Ans: A Scrum board is a visual tool used to track work during a sprint. It typically contains columns for "To Do," "In Progress," and "Done" tasks.
+
+22. What is the difference between Scrum and Kanban?
+Ans: Scrum uses time-boxed sprints and specific roles, while Kanban is a flow-based method with continuous delivery, focusing on visualizing workflow and limiting work in progress.
+
+23. What are the key roles in an Agile team?
+Ans: Key roles include the Product Owner, Scrum Master, and Development Team, each with distinct responsibilities in guiding the project.
+
+24. What are the benefits of Agile project management?
+Ans: Benefits include increased adaptability to changes, better stakeholder engagement, higher customer satisfaction, improved team morale, and faster delivery.
+
+25. What is velocity in Scrum?
+Answer-34: Velocity is a measure of the amount of work a team can complete in a sprint, typically expressed in story points or hours. It helps predict future sprint capacity.
+
+26. What is a "timebox" in Agile?
+Ans: A timebox is a fixed duration within which an activity, such as a sprint or a meeting, must be completed. It helps manage time and resources effectively.
+
+27. What is a "Definition of Done" (DoD)?
+Ans: The Definition of Done is a shared understanding within the team of the criteria that must be met for work to be considered complete, ensuring consistency and quality.
+
+28. How do you measure progress in Agile?
+Ans: Progress in Agile is measured through frequent reviews, burndown charts, and customer feedback. The focus is on delivering working software frequently.
+
+
+29. What is the concept of "timeboxing" in Agile?
+Ans: Timeboxing in Agile refers to limiting the duration of specific tasks or phases (like sprints, meetings, or reviews), ensuring focused and efficient work.
+
+30. How does Agile support collaboration between teams and stakeholders?
+Ans: Agile encourages continuous communication, regular feedback loops, and collaboration through daily standups, sprint reviews, and close interaction with stakeholders.
+
+31. What is an Agile Sprint Goal?
+Ans: An Agile Sprint Goal is a concise, clear statement that defines what the team aims to achieve by the end of the sprint, providing focus and direction.
+
+32. What is a Kanban board in Agile?
+Ans: A Kanban board is a visual tool used in Agile to manage workflow by visualizing tasks and their current status, typically with columns like "To Do," "In Progress," and "Done."
+
+33. What is the role of a Development Team in Agile?
+Ans: The Development Team is responsible for delivering the work committed to during the sprint, writing code, and ensuring the quality and functionality of the product.
+
+34. What is the difference between Continuous Integration and Continuous Delivery?
+
+Ans: Continuous Integration focuses on merging code changes frequently and testing them, while Continuous Delivery extends CI by automating the entire release process, ensuring the code is ready for production at any time.
+
+GIT QUESTIONS 
+
+1. What is Git?
+Git is a distributed version control system used to track changes in source code during software development.
+
+2. What is a repository in Git?
+A repository is a storage location for software packages, which includes the entire history of changes and revisions.
+
+3. How do you initialize a new Git repository?
+Use the command: git init.
+
+4. How do you clone a repository?
+Use the command: git clone .
+
+5. What is a commit in Git?
+A commit is a snapshot of the project’s state at a specific point in time.
+
+6. How do you create a new branch in Git?
+Use the command: git branch .
+
+7. How do you switch to a different branch?
+Use the command: git checkout .
+
+8. What is the difference between git fetch and git pull?
+git fetch downloads changes from the remote repository without integrating them. git pull downloads and merges changes.
+
+9. How do you stage changes for a commit?
+Use the command: git add .
+
+10. How do you commit staged changes?
+Use the command: git commit -m "commit message".
+
+11. How do you view the commit history?
+Use the command: git log.
+
+12. How do you delete a remote branch?
+Use the command: git push origin --delete .
+
+13. What does git clone do?
+The command creates a copy (or clone) of an existing git repository. Generally, it is used to get a copy of the remote repository to the local repository.
+
+14. What does the command git config do?
+The git config command is a convenient way to set configuration options for defining the behavior of the repository, user information and preferences, git installation-based configurations, and many such things. 
+
+15. What is a version control system (VCS)?
+A VCS keeps track of the contributions of the developers working as a team on the projects. They maintain the history of code changes done and with project evolution, it gives an upper hand to the developers to introduce new code, fixes bugs, and run tests with confidence that their previously working copy could be restored at any moment in case things go wrong.
+
+16. What is the purpose of the git clone?
+Answer: One may use a Git clone to make a local copy of a remote GitHub repository. After you clone a repo, you may make changes locally on your PC rather than in the remote repo's source files.
+
+17. Why is branching required in GIT?
+Answer: You may retain your branch and hop between the different branches with the aid of branching. You may access your previous work while leaving your current work intact.
+
+18. What is the difference between Git and GitHub?
+Git					GitHub
+Git is a software				GitHub is a service
+Git can be installed locally on the system		GitHub is hosted on the web
+Provides a desktop interface called git GUI		Provides a desktop interface called GitHub Desktop.
+It does not support user management features	Provides built-in user management
+
+19. What is a branch?
+A branch in Git is like a separate line of work. It lets you make changes to your project without affecting the main version (usually called the main or master branch).
+
+20.How to configure your git username and git email address?
+To configure your git username and email, you can use user.name and user.email. For example, if you want to configure your username: git config –global user.name “Your username” and git config –global user.email “you@email.com”.
+
+
+
+
